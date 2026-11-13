@@ -2,27 +2,6 @@
 
 A modern, user-friendly mobile application developed using **Flutter** and **Dart**. Quiz Application helps students test their knowledge through multiple-choice questions, explore different categories, track scores, view results, and add their own custom questions.
 
-## 📱 Quiz Application Screenshots
-
-*Screenshots will be added after completing the application.*
-
-- Home Screen
-- Quiz Categories Screen
-- Quiz Questions Screen
-- Results Screen
-- Add Questions Screen
-
----
-
-## 📲 Download Android App
-
-The release APK will be available after completing the application.
-
-- **GitHub Release:** Quiz Application v1.0.0
-- **Repository:** Quiz-Application
-
----
-
 ## 📌 Features
 
 - **Quiz Categories:** Browse General Knowledge, Science, Computer Science, Mathematics, and English.
